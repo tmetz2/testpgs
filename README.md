@@ -1,3 +1,7 @@
+---
+---
+
+## Hi there
 
 <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
