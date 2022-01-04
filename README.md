@@ -1,7 +1,7 @@
 
 ## Hi there
 
-<ul class="post-list">
+<ul>
     
       {%- for post in posts -%}
       <li>
