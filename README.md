@@ -3,7 +3,7 @@
 
 <ul>
     
-      {%- for post in posts -%}
+      {%- for post in site.posts -%}
       <li>
         
         <h3>
